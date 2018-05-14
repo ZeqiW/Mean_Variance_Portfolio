@@ -1,4 +1,4 @@
-# mean_variance
+# Mean_Variance Portfolio
 OpenMP, Monte-Carlo Simulation, Eigen to realize Mean-Variance Portfolio Strategy.
 
 In mean_variance.cpp, I realize mean_variance strategy by using its own formula.
